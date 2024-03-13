@@ -29,4 +29,8 @@ We receive the output:
 
 ![Screenshot from 2024-03-13 16-14-31](https://github.com/shazam37/Medical_chatbot/assets/119686545/1847eb5b-9c90-48c0-97e6-ed20dd0783e4)
 
-The model is trained on less corpus of medical data so we many not get very detailed response. We can buy more medical textbooks and feed it into our database to expand the scope of this chat bot. But I feel its still a good starting point. We can build all sort of marvellous applications for our specific task given we have proper data. Its only the beginning that we have started leveraging the power of LLMs, there is certainly a long way to go ahead! 
+Next we ask about the medicine Acetaminophen and receive the response:
+
+![Screenshot from 2024-03-13 16-33-28](https://github.com/shazam37/Medical_chatbot/assets/119686545/ed397c94-6727-4f01-bf88-7835123a8866)
+
+Since the model is trained on less corpus of medical data so we many not get very detailed response. We can buy more medical textbooks and feed it into our database to expand the scope of this chat bot. But I feel its still a good starting point. We can build all sort of marvellous applications for our specific task given we have proper data. Its only the beginning that we have started leveraging the power of LLMs, and there is certainly a long way to go ahead! 
