@@ -2,7 +2,7 @@
 
 We all search for medical ailments and terminologies out of curiosity or even for self-diagnosis (which is ofcourse a wrong thing to do!). The most reliable source for such queries is none other than a proper medical textbook (something which every Doctor has to read thoroughly). Its time taking and sometimes exhaustive to go through a giant textbook looking for a specific term. We can thus take help of Large Language Models (LLM) to learn the textbook information on our behalf and serve us an appropriate response. 
 
-LLMs have been widely celebrated and applied to building custom models for different applications. LLMs are already pre-trained on a large corpus of text data inlcuding how to interact like a human. Thus, if such pre-trained models are taught a specific subject or topic, they quickly grasp its nuance and generate an almost human like response. The creativity of LLM models are controlled with a paremeter called 'temeprature' whose value ranges from 0 to 1. 
+LLMs have been widely celebrated and applied to building custom models for different applications. LLMs are already pre-trained on a large corpus of text data inlcuding how to interact like a human. Thus, if such pre-trained models are taught a specific subject or topic, they quickly grasp its nuance and generate an almost human like response explaining those topics. The creativity of LLM models are controlled with a paremeter called 'temeprature' whose value ranges from 0 to 1. 
 
 A higher temperature value allows the model to take risk and generate creative responses, however there is a chance to give wrong response as well. Whereas a lower temperature value keeps the model deterministic, the model doesn't take any risk and generates a safe response. 
 
