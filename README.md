@@ -4,7 +4,7 @@ We all search for medical ailments and terminologies out of curiosity or even fo
 
 LLMs have been widely celebrated and applied to building custom models for different applications. LLMs are already pre-trained on a large corpus of text data inlcuding how to interact like a human. Thus, if such pre-trained models are taught a specific subject or topic, they quickly grasp its nuance and generate an almost human like response explaining those topics. The creativity of LLM models are controlled with a parameter called 'temperature' whose value ranges from 0 to 1. 
 
-A higher temperature value allows the model to take risk and generate creative responses, however there is a chance to give wrong response as well. Whereas a lower temperature value keeps the model deterministic, the model doesn't take any risk and generates a safe response. 
+A higher temperature value allows the model to take risk and generate creative responses, however there is a chance to give wrong response as well. Whereas a lower temperature value keeps the model deterministic where the model doesn't take any risk and generates a safe response. 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
