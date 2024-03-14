@@ -16,8 +16,8 @@ embeddings = download_hugging_face_embeddings()
 
 
 # Initializing the pinecone
-pinecone.init(api_key=PINECONE_API_KEY,
-              environment=PINECONE_API_ENV)
+# pinecone.init(api_key=PINECONE_API_KEY,
+#               environment=PINECONE_API_ENV)
 
 text_field = [text.page_content for text in text_chunks]
 index_name = "medical-chatbot"
